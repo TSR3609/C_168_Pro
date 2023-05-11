@@ -1,0 +1,11 @@
+Model Information:
+* title:	Hummer EV - Low Poly
+* source:	https://sketchfab.com/3d-models/hummer-ev-low-poly-12622086af0449eda09f9d2ce5596090
+* author:	Ajay Gawde (https://sketchfab.com/aagawde)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Hummer EV - Low Poly" (https://sketchfab.com/3d-models/hummer-ev-low-poly-12622086af0449eda09f9d2ce5596090) by Ajay Gawde (https://sketchfab.com/aagawde) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
